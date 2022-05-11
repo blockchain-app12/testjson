@@ -1,0 +1,36 @@
+{
+    "name": " x NFT Avatar",
+    "symbol": "WHTVRTT",
+    "description": "Great Avatar for murkiTT",
+    "seller_fee_basis_points": 1000,
+    "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/017B/production/_118697300_kimcatdardshian_eth.png",
+    "attributes":
+    [
+        {
+            "trait_type": "Whatever Trait 1",
+            "value": "Firee"
+        },
+        {
+            "trait_type": "Whatever Trait 2",
+            "value": "Sunglassesss"
+        }
+    ],
+    "properties":
+    {
+        "files":
+        [
+            {
+                "uri": "https://ichef.bbci.co.uk/news/976/cpsprodpb/017B/production/_118697300_kimcatdardshian_eth.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators":
+        [
+            {
+                "address": "3ETDGDZo8MRng9igdaTCSeeHonB5vwPmVAA4RpZTRxGg",
+                "share": 100
+            }
+        ]
+    }
+}
