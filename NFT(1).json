@@ -1,0 +1,36 @@
+{
+    "name": "murki x NFT Avatar",
+    "symbol": "WHTVR",
+    "description": "Great Avatar for murki",
+    "seller_fee_basis_points": 1000,
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.files.bbci.co.uk%2F288B%2Fproduction%2F_118697301_kimcatdardshian_eth.png&imgrefurl=https%3A%2F%2Fwww.bbc.com%2Fnews%2Ftechnology-57273904&tbnid=K3YbsbIiAPWDEM&vet=12ahUKEwivpLC8vdf3AhVBKbcAHSW4D3YQMygAegUIARCxAQ..i&docid=VWFQo7-PaLTT-M&w=976&h=549&q=NFT%20kitties&ved=2ahUKEwivpLC8vdf3AhVBKbcAHSW4D3YQMygAegUIARCxAQ",
+    "attributes":
+    [
+        {
+            "trait_type": "Whatever Trait 1",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Whatever Trait 2",
+            "value": "Sunglasses"
+        }
+    ],
+    "properties":
+    {
+        "files":
+        [
+            {
+                "uri": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.files.bbci.co.uk%2F288B%2Fproduction%2F_118697301_kimcatdardshian_eth.png&imgrefurl=https%3A%2F%2Fwww.bbc.com%2Fnews%2Ftechnology-57273904&tbnid=K3YbsbIiAPWDEM&vet=12ahUKEwivpLC8vdf3AhVBKbcAHSW4D3YQMygAegUIARCxAQ..i&docid=VWFQo7-PaLTT-M&w=976&h=549&q=NFT%20kitties&ved=2ahUKEwivpLC8vdf3AhVBKbcAHSW4D3YQMygAegUIARCxAQ",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators":
+        [
+            {
+                "address": "3ETDGDZo8MRng9igdaTCSeeHonB5vwPmVAA4RpZTRxGg",
+                "share": 100
+            }
+        ]
+    }
+}
