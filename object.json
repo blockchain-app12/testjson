@@ -3,8 +3,7 @@
     "symbol": "WHTVR",
     "description": "Great Avatar for murki",
     "seller_fee_basis_points": 1000,
-    "image": "https://cdn.vox-cdn.com/thumbor/9DLaW8apXgtm4gYZ4jAnEQeyyRA=/0x160:1252x815/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22341171/Screen_Shot_2021_03_02_at_3.21.50_PM.png",
-    "external_url": "https://twitter.com/murki",
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.files.bbci.co.uk%2F288B%2Fproduction%2F_118697301_kimcatdardshian_eth.png&imgrefurl=https%3A%2F%2Fwww.bbc.com%2Fnews%2Ftechnology-57273904&tbnid=K3YbsbIiAPWDEM&vet=12ahUKEwivpLC8vdf3AhVBKbcAHSW4D3YQMygAegUIARCxAQ..i&docid=VWFQo7-PaLTT-M&w=976&h=549&q=NFT%20kitties&ved=2ahUKEwivpLC8vdf3AhVBKbcAHSW4D3YQMygAegUIARCxAQ",
     "attributes":
     [
         {
@@ -21,7 +20,7 @@
         "files":
         [
             {
-                "uri": "https://cdn.vox-cdn.com/thumbor/9DLaW8apXgtm4gYZ4jAnEQeyyRA=/0x160:1252x815/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22341171/Screen_Shot_2021_03_02_at_3.21.50_PM.png",
+                "uri": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.files.bbci.co.uk%2F288B%2Fproduction%2F_118697301_kimcatdardshian_eth.png&imgrefurl=https%3A%2F%2Fwww.bbc.com%2Fnews%2Ftechnology-57273904&tbnid=K3YbsbIiAPWDEM&vet=12ahUKEwivpLC8vdf3AhVBKbcAHSW4D3YQMygAegUIARCxAQ..i&docid=VWFQo7-PaLTT-M&w=976&h=549&q=NFT%20kitties&ved=2ahUKEwivpLC8vdf3AhVBKbcAHSW4D3YQMygAegUIARCxAQ",
                 "type": "image/png"
             }
         ],
@@ -29,7 +28,7 @@
         "creators":
         [
             {
-                "address": "AFLDRGXhQScD3QYyDNK7wGi2KZjY8tY6ztMhr11eMEw",
+                "address": "3ETDGDZo8MRng9igdaTCSeeHonB5vwPmVAA4RpZTRxGg",
                 "share": 100
             }
         ]
